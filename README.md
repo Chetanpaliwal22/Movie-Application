@@ -1,14 +1,12 @@
 # Movie-Application
 
-A simple web application to show you the available movies and there show timing. This project was part of the course [Developing web apps with SAP UI5](https://open.sap.com/courses/ui51).
+A simple web application to show you the available movies and corresponding show timings. This project was part of the course [Developing web apps with SAP UI5](https://open.sap.com/courses/ui51).
 
 ## SAPUI5?
 
 Client-side JavaScript library for creating Web user interfaces its all run inside your browswer using java script code.
 
-## Screenshot of the To-Do-List App
-
-### Movie App
+### Screenshot of the App
 ![](images/home_page.PNG)
 
 ### Installation Process
