@@ -9,6 +9,9 @@ Client-side JavaScript library for creating Web user interfaces its all run insi
 ### Screenshot of the App
 ![](images/home_page.PNG)
 
+
+![](images/home_page2.PNG)
+
 ### Installation Process
 
 Follow the instructions for the SAPUI5 environment Setup given [here](https://help.sap.com/viewer/977416d43cd74bdc958289038749100e/1.0/en-US/f8cbb7a89f1143c7a64d22372208d1ec.html).
