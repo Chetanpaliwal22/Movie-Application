@@ -1,0 +1,1 @@
+sap.ui.define([],function(){"use strict";return{formatDate:function(n){if(!n){return null}return new Date(n)}}});
