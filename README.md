@@ -10,7 +10,7 @@ Client-side JavaScript library for creating Web user interfaces its all run insi
 ![](images/home_page.PNG)
 
 
-![](images/home_page2.PNG)
+![](images/home_page2.png)
 
 ### Installation Process
 
